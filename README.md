@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **The outlierz** · Team ID `VTU-QFF-HC-0026` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#The outlierz)
+[⬆ Back to Top](#the-outlierz)
 
 </div>
